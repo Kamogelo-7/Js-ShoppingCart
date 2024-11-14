@@ -1,7 +1,5 @@
-# Js-ShoppingCart
-This repository contains a basic beginner HTML and CSS and SCSS project.
-
 # Shopping Cart Web Application
+This repository contains a basic beginner HTML and CSS and SCSS project.
 
 A lightweight shopping cart application built with JavaScript, HTML, and CSS. This project includes essential cart functionalities, such as adding and removing products, adjusting quantities, and saving cart data in localStorage for a persistent user experience.
 
