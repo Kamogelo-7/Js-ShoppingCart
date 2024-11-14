@@ -1,0 +1,16 @@
+{
+  "name": "shopingcart-app",
+  "version": "1.0.0",
+  "main": "shopCart.js",
+  "type": "module",
+  "scripts": {
+    "compileScss": "sass --watch --no-source-map layoutDesign.scss main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sass": "^1.80.7"
+  }
+}
